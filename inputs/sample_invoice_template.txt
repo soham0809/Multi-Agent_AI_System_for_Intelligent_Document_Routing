@@ -1,0 +1,37 @@
+INVOICE
+
+Invoice #: INV-2025-0531
+Date: May 30, 2025
+Due Date: June 30, 2025
+
+VENDOR:
+TechSupply Inc.
+123 Tech Avenue
+San Francisco, CA 94107
+Email: accounts@techsupply.com
+Phone: +1-415-555-8901
+
+BILL TO:
+Innovative Solutions LLC
+456 Innovation Drive
+Boston, MA 02110
+Customer ID: CUST-2023-456
+
+PAYMENT TERMS: Net 30
+
+ITEMS:
+----------------------------------------
+QTY | DESCRIPTION               | PRICE    | AMOUNT
+----------------------------------------
+5   | Enterprise Software License | $2,000.00 | $10,000.00
+1   | Technical Support (Annual)  | $2,000.00 | $2,000.00
+----------------------------------------
+                        Subtotal: $12,000.00
+                        Tax (6.25%): $750.00
+                        TOTAL: $12,750.00
+
+NOTES:
+Please reference invoice number on all payments.
+For questions regarding this invoice, please contact accounts@techsupply.com.
+
+Thank you for your business!

@@ -1,0 +1,32 @@
+From: john.smith@acmecorp.com
+To: procurement@yourcompany.com
+Subject: Urgent Request for Quotation - Industrial Equipment
+Date: Wed, 31 May 2025 09:15:22 +0000
+
+Dear Procurement Team,
+
+I am writing to request a quotation for the following industrial equipment needed for our new manufacturing facility:
+
+1. Industrial-grade air compressor (5HP) - 2 units
+2. Hydraulic press (20-ton capacity) - 1 unit
+3. CNC milling machine - 1 unit
+
+We need these items delivered by July 15th, 2025 at the latest. This is an urgent request as our production schedule depends on having this equipment installed and operational by August 1st.
+
+Please include the following in your quotation:
+- Unit price for each item
+- Delivery timeline
+- Installation services (if available)
+- Warranty information
+- Payment terms
+
+If you have any questions or need additional specifications, please contact me at +1-555-123-4567 or reply to this email.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+John Smith
+Procurement Manager
+ACME Corporation
+john.smith@acmecorp.com
++1-555-123-4567

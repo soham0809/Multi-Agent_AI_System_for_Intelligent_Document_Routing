@@ -1,0 +1,37 @@
+{
+  "type": "invoice",
+  "invoice_number": "INV-2025-0531",
+  "date": "2025-05-30",
+  "due_date": "2025-06-30",
+  "currency": "USD",
+  "total_amount": 12750.00,
+  "tax_amount": 750.00,
+  "vendor": {
+    "name": "TechSupply Inc.",
+    "address": "123 Tech Avenue, San Francisco, CA 94107",
+    "email": "accounts@techsupply.com",
+    "phone": "+1-415-555-8901"
+  },
+  "customer": {
+    "name": "Innovative Solutions LLC",
+    "address": "456 Innovation Drive, Boston, MA 02110",
+    "email": "ap@innovativesolutions.com",
+    "customer_id": "CUST-2023-456"
+  },
+  "payment_terms": "Net 30",
+  "items": [
+    {
+      "description": "Enterprise Software License",
+      "quantity": 5,
+      "unit_price": 2000.00,
+      "amount": 10000.00
+    },
+    {
+      "description": "Technical Support (Annual)",
+      "quantity": 1,
+      "unit_price": 2000.00,
+      "amount": 2000.00
+    }
+  ],
+  "notes": "Please reference invoice number on all payments."
+}

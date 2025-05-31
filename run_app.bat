@@ -1,0 +1,3 @@
+@echo off
+echo Starting Multi-Agent AI System Web Interface...
+streamlit run app.py

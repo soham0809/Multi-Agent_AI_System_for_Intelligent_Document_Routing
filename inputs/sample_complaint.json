@@ -1,0 +1,20 @@
+{
+  "type": "complaint",
+  "customer_id": "CUST-2023-789",
+  "date": "2025-05-29",
+  "severity": "high",
+  "category": "delivery",
+  "message": "I ordered product #XYZ-123 on May 15th with expedited shipping, but it still hasn't arrived after two weeks. This is unacceptable as I needed this item for an important project. I've tried contacting customer service three times but haven't received any helpful response. Please resolve this immediately or I will request a full refund and leave a negative review.",
+  "contact_info": {
+    "name": "Sarah Johnson",
+    "email": "sarah.j@example.com",
+    "phone": "+1-555-987-6543"
+  },
+  "order_details": {
+    "order_number": "ORD-2025-05-15-789",
+    "product_id": "XYZ-123",
+    "quantity": 1,
+    "amount": 349.99
+  },
+  "resolution_requested": "Expedite delivery or provide full refund"
+}

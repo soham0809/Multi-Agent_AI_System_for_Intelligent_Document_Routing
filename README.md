@@ -8,12 +8,12 @@ This system is designed to handle different types of documents (PDF, JSON, Email
 
 ### Key Features
 
-* **Multi-Agent Architecture**: Specialized agents for different document types and processing tasks
-* **Intelligent Classification**: Automatic detection of document format and business intent
-* **Shared Memory System**: Centralized storage for document context and processing history
-* **Web Interface**: User-friendly Streamlit application for document processing and visualization
-* **Visualization & Reporting**: Interactive charts and reports for processing analytics
-* **Extensible Design**: Easy to add new document types, intents, and specialized agents
+- **Multi-Agent Architecture**: Specialized agents for different document types and processing tasks
+- **Intelligent Classification**: Automatic detection of document format and business intent
+- **Shared Memory System**: Centralized storage for document context and processing history
+- **Web Interface**: User-friendly Streamlit application for document processing and visualization
+- **Visualization & Reporting**: Interactive charts and reports for processing analytics
+- **Extensible Design**: Easy to add new document types, intents, and specialized agents
 
 ## Architecture
 
@@ -143,6 +143,7 @@ The system includes comprehensive visualization and reporting capabilities:
 ### Interactive Web Dashboard
 
 The Streamlit web interface provides real-time visualization of:
+
 - Document processing history and status
 - Detailed view of extracted fields and metadata
 - Agent routing history and decision logs
@@ -151,6 +152,7 @@ The Streamlit web interface provides real-time visualization of:
 ### Automated Reports
 
 The reporting system generates HTML reports with:
+
 - Document format distribution pie charts
 - Intent classification bar charts
 - Processing timeline trend analysis
@@ -160,6 +162,7 @@ The reporting system generates HTML reports with:
 ### Data Export
 
 All processing results can be exported as:
+
 - Individual JSON files per document
 - Combined JSON logs for batch processing
 - SQLite database for advanced querying
@@ -180,7 +183,7 @@ Example for a new PDF Agent:
 class PDFAgent:
     def __init__(self, memory):
         self.memory = memory
-        
+
     def process(self, thread_id, content, metadata):
         # Extract text from PDF
         # Process based on intent
@@ -198,7 +201,7 @@ Example for adding a new "Contract" intent:
 # Add to INTENT_KEYWORDS dictionary
 INTENT_KEYWORDS.update({
     "contract": [
-        "agreement", "contract", "terms", "conditions", 
+        "agreement", "contract", "terms", "conditions",
         "parties", "legal", "binding", "signature"
     ]
 })
@@ -246,4 +249,5 @@ MIT
 
 ## Contact
 
-For questions or feedback, please contact: soham.shah@flowbitai.com
+For questions or feedback, please contact: sohamj69@gmail.com
+Contact me @ : www.sohamm.xyz
